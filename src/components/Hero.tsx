@@ -72,7 +72,7 @@ const Hero = () => {
                                     </div>
                                 </div>
 
-                                <h3 className="text-xl font-semibold mb-4">Automatisation en action</h3>
+                                <h2 className="text-xl font-semibold mb-4">Automatisation en action</h2>
 
                                 <div className="space-y-4">
                                     {[

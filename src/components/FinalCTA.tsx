@@ -184,7 +184,7 @@ const FinalCTA = () => {
 
                         <div className="mt-6 text-center">
                             <p className="text-sm text-gray-600">
-                                <span className="font-semibold text-green-600">Garantie :</span> Audit offert, sans engagement
+                                <span className="font-semibold text-green-800">Garantie :</span> Audit offert, sans engagement
                             </p>
                         </div>
                     </div>

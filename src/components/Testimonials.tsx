@@ -61,7 +61,7 @@ const Testimonials = () => {
                                     className="w-16 h-16 rounded-full object-cover"
                                 />
                                 <div>
-                                    <h4 className="font-semibold text-gray-900">{testimonial.name}</h4>
+                                    <h3 className="font-semibold text-gray-900">{testimonial.name}</h3>
                                     <p className="text-sm text-gray-600">{testimonial.business}</p>
                                     <div className="flex items-center mt-1">
                                         {[...Array(testimonial.rating)].map((_, i) => (
