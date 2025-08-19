@@ -42,7 +42,7 @@ const FinalCTA = () => {
                                     <Shield className="w-5 h-5" />
                                 </div>
                                 <div>
-                                    <h4 className="font-semibold mb-1">Sans engagement</h4>
+                                    <h3 className="font-semibold mb-1">Sans engagement</h3>
                                     <p className="text-blue-200 text-sm">Audit 100% gratuit, aucune obligation d'achat</p>
                                 </div>
                             </div>
@@ -52,7 +52,7 @@ const FinalCTA = () => {
                                     <Clock className="w-5 h-5" />
                                 </div>
                                 <div>
-                                    <h4 className="font-semibold mb-1">Réponse sous 24h</h4>
+                                    <h3 className="font-semibold mb-1">Réponse sous 24h</h3>
                                     <p className="text-blue-200 text-sm">Notre équipe vous contacte rapidement</p>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@ const FinalCTA = () => {
                                     <Users className="w-5 h-5" />
                                 </div>
                                 <div>
-                                    <h4 className="font-semibold mb-1">Expert dédié</h4>
+                                    <h3 className="font-semibold mb-1">Expert dédié</h3>
                                     <p className="text-blue-200 text-sm">Un spécialiste de votre secteur vous accompagne</p>
                                 </div>
                             </div>
