@@ -30,7 +30,7 @@ const Header = () => {
                         <a href="#solution" className="text-gray-600 hover:text-blue-600 transition-colors">Solution</a>
                         <a href="#secteurs" className="text-gray-600 hover:text-blue-600 transition-colors">Secteurs</a>
                         <a href="#pricing" className="text-gray-600 hover:text-blue-600 transition-colors">Tarifs</a>
-                        <a href="#temoignages" className="text-gray-600 hover:text-blue-600 transition-colors">Témoignages</a>
+                        {/*<a href="#temoignages" className="text-gray-600 hover:text-blue-600 transition-colors">Témoignages</a>*/}
                     </nav>
 
                     <div className="hidden md:block">
