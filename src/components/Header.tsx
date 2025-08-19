@@ -54,7 +54,7 @@ const Header = () => {
                             <a href="#solution" className="text-gray-600 hover:text-blue-600">Solution</a>
                             <a href="#secteurs" className="text-gray-600 hover:text-blue-600">Secteurs</a>
                             <a href="#pricing" className="text-gray-600 hover:text-blue-600">Tarifs</a>
-                            <a href="#temoignages" className="text-gray-600 hover:text-blue-600">Témoignages</a>
+                            {/*<a href="#temoignages" className="text-gray-600 hover:text-blue-600">Témoignages</a>*/}
                             <a href="#demo" className="bg-blue-600 text-white px-6 py-2 rounded-lg font-semibold text-center">
                                 Démo gratuite
                             </a>

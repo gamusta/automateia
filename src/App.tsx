@@ -4,7 +4,7 @@ import Problem from './components/Problem';
 import Solution from './components/Solution';
 import Benefits from './components/Benefits';
 import Sectors from './components/Sectors';
-import Testimonials from './components/Testimonials';
+/*import Testimonials from './components/Testimonials';*/
 import Pricing from './components/Pricing';
 import FAQ from './components/FAQ';
 import FinalCTA from './components/FinalCTA';
@@ -19,7 +19,7 @@ function App() {
             <Solution />
             <Benefits />
             <Sectors />
-            <Testimonials />
+            {/*<Testimonials />*/}
             <Pricing />
             <FAQ />
             <FinalCTA />
