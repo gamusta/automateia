@@ -5,7 +5,7 @@ const Testimonials = () => {
         {
             name: "Marie Dubois",
             business: "Restaurant Le Petit Bistrot, Lyon",
-            avatar: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&dpr=2",
+            avatar: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&dpr=2",
             quote: "J'ai récupéré mes soirées grâce à l'automatisation des commandes WhatsApp. Plus de stress, mes clients sont servis même quand je ne suis pas là.",
             results: "15h/semaine économisées",
             rating: 5,
@@ -14,7 +14,7 @@ const Testimonials = () => {
         {
             name: "Thomas Martin",
             business: "Agent immobilier indépendant, Bordeaux",
-            avatar: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&dpr=2",
+            avatar: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&dpr=2",
             quote: "3x plus de prospects qualifiés depuis que le chatbot filtre les demandes. Je ne perds plus de temps avec des visiteurs non sérieux.",
             results: "+200% de leads qualifiés",
             rating: 5,
@@ -23,7 +23,7 @@ const Testimonials = () => {
         {
             name: "Dr. Sophie Laurent",
             business: "Cabinet médical, Toulouse",
-            avatar: "https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&dpr=2",
+            avatar: "https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=64&h=64&dpr=2",
             quote: "Fini les devis perdus ! Tout est automatisé, de la demande au suivi. Mes clients apprécient la rapidité et moi je gagne un temps fou.",
             results: "0 devis perdu depuis 6 mois",
             rating: 5,
